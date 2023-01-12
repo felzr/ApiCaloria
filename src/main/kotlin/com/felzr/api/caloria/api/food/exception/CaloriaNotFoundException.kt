@@ -1,4 +1,4 @@
-package com.felzr.api.caloria.api.exception
+package com.felzr.api.caloria.api.food.exception
 
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ResponseStatus
